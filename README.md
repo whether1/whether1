@@ -144,9 +144,7 @@ Scripts are usually placed in:
 
 
 <details>
-<summary> Click to expand</summary>
-
-## Lua Scripts
+<summary> ## Lua Scripts </summary>
 
 If you want to write your own Lua scripts, have a look at the [documentation of mpv's Lua interface](https://mpv.io/manual/master/#lua-scripting).
 
