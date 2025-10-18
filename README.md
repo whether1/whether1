@@ -5,6 +5,7 @@
 |2| StuffPal  | useful inventory manage tool/AI for daily life living in small room in India| 
 |3| mpv-abstime-osd    | useful tool for No.1 or videos |
 |4| txbbs-WxMiniProgramScript  | necessary tool in shti ~~China~~ India| 
-|5| ControlCenter | tool for No.4 and others handling shit stuff  |
+|5| ControlCenter | full automatic tool checklist for No.4 and others handling shit stuff  |
 |6|   |  |
+||   |  |
 ||   |  |
