@@ -7,5 +7,5 @@
 |4| [txbbs,TiXianBiBiSheng](https://github.com/whether1/txbbs-WxMiniProgramScript)  | necessary tool 提现笔笔省微信小程序in shti ~~China~~ India| 
 |5| [ControlCenter](https://github.com/whether1/ControlCenter) | full automatic checklist-tool  for No.4 and others handling shit stuff  |
 |6| [Keyboard,COME!](https://github.com/whether1/Keyboard-COME)| tool against literary inquisition in bilibli in imperial India|
-||   |  |
+|7|  [github-auto-dislike](https://github.com/whether1/github-auto-dislike) | tool auto dislike bad people like @zhouxinghong on github |
 ||   |  |
