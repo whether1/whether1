@@ -1,4 +1,4 @@
-# MY REPO up to 2510200110
+# MY REPO up to 2026-01-03
 |No.| REPO NAME | DESCRIPTION | 
 |------|------|------|
 |1|[audio-auto-record](https://github.com/whether1/audio-auto-record) |useful tool save evidence, memo **(maybe labor or family dispute)**  living in shit ~~China~~ India |
@@ -8,4 +8,5 @@
 |5| [ControlCenter](https://github.com/whether1/ControlCenter) | full automatic checklist-tool  for No.4 and others handling shit stuff  |
 |6| [Keyboard,COME!](https://github.com/whether1/Keyboard-COME)| tool against literary inquisition in bilibli in imperial India|
 |7|  [github-auto-dislike](https://github.com/whether1/github-auto-dislike) | tool auto dislike bad people like @zhouxinghong on github |
+|8|  [Home Information System](https://github.com/whether1/Home-Information-System) |tool for internal affairs(include No.2), better external fight against incompetent rule in shit india |
 ||   |  |
