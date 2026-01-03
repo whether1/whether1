@@ -8,5 +8,5 @@
 |5| [ControlCenter](https://github.com/whether1/ControlCenter) | full automatic checklist-tool  for No.4 and others handling shit stuff  |
 |6| [Keyboard,COME!](https://github.com/whether1/Keyboard-COME)| tool against literary inquisition in bilibli in imperial India|
 |7|  [github-auto-dislike](https://github.com/whether1/github-auto-dislike) | tool auto dislike bad people like @zhouxinghong on github |
-|8|[Home Information System](https://github.com/whether1/Home-Information-System) |tool for internal affairs for external fight against incompetent rule in Sh.Ch.|
+|8|[Home Information System](https://github.com/whether1/Home-Information-System) |tool for internal affairs finally for external fight against incompetent rule in Sh.Ch.|
 ||   |  |
